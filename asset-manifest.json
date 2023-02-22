@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yooz-gp/static/css/main.a1e88b44.css",
-    "main.js": "/yooz-gp/static/js/main.222b8de4.js",
+    "main.css": "/yooz-gp/static/css/main.85b69f50.css",
+    "main.js": "/yooz-gp/static/js/main.035b2b3d.js",
     "static/js/787.28cb0dcd.chunk.js": "/yooz-gp/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/yooz-gp/index.html",
-    "main.a1e88b44.css.map": "/yooz-gp/static/css/main.a1e88b44.css.map",
-    "main.222b8de4.js.map": "/yooz-gp/static/js/main.222b8de4.js.map",
+    "main.85b69f50.css.map": "/yooz-gp/static/css/main.85b69f50.css.map",
+    "main.035b2b3d.js.map": "/yooz-gp/static/js/main.035b2b3d.js.map",
     "787.28cb0dcd.chunk.js.map": "/yooz-gp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1e88b44.css",
-    "static/js/main.222b8de4.js"
+    "static/css/main.85b69f50.css",
+    "static/js/main.035b2b3d.js"
   ]
 }
