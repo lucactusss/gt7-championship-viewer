@@ -20,7 +20,11 @@ jobs:
         yarn
         yarn build
       env:
-        REACT_APP_APIKEY: ${{ secrets.REACT_APP_APIKEY }}
+        FIREBASE_API_KEY: ${{ secrets.FIREBASE_API_KEY }}
+        FIREBASE_AUTH_DOMAIN: ${{ secrets.FIREBASE_AUTH_DOMAIN }}
+        FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
+        FIREBASE_SENDER_ID: ${{ secrets.FIREBASE_SENDER_ID }}
+        FIREBASE_APP_ID: ${{ secrets.FIREBASE_APP_ID }}
 
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
